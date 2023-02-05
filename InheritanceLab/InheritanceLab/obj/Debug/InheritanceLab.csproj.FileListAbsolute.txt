@@ -1,0 +1,8 @@
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.exe.config
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.exe
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\bin\Debug\InheritanceLab.pdb
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.csproj.AssemblyReference.cache
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.exe
+C:\Users\samnb\Documents\OOP2\InheritanceLab\InheritanceLab\obj\Debug\InheritanceLab.pdb
